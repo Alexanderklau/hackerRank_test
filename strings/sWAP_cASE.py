@@ -1,0 +1,21 @@
+# -*-coding:utf-8 -*- 
+__author__ = 'Yemilice_lau'
+"""
+For Example:
+Www.HackerRank.com → wWW.hACKERrANK.COM
+Pythonist 2 → pYTHONIST 2
+"""
+def swap_case(s):
+    return s.swapcase()
+
+
+
+
+
+
+
+
+if __name__ == '__main__':
+    s = input()
+    result = swap_case(s)
+    print(result)
