@@ -6,7 +6,7 @@ str.isalpha():判断str中含有的(a-z and A-Z).如果存在其他，输出fals
 str.isdigit():判断str中含有的 (0-9).如果存在其他，输出false.
 str.islower():判断str中含有的 (a-z).如果存在其他，输出false.
 str.isupper():判断str中含有的(A-Z).如果存在其他，输出false.
-题目：
+# 题目：
 输入一个值，上述五种方法分别判断
 """
 if __name__ == '__main__':
